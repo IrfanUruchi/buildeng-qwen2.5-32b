@@ -10,7 +10,7 @@ This model is being fine-tuned for use by building engineers.
 The goal is accurate, practical support for building systems work,
 using domain-specific data and standards.
 
-Planned release: **June 2026**.
+Planned release: **June 4th 2026**.
 
 ## Scope
 - HVAC systems and controls
