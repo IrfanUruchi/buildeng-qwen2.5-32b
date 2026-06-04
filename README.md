@@ -63,12 +63,6 @@ Main merged model:
 https://huggingface.co/Irfanuruchi/qwen2.5-32b-buildeng
 ```
 
-LoRA adapter:
-
-```text
-https://huggingface.co/Irfanuruchi/qwen2.5-32b-buildeng-v8-lora
-```
-
 Dataset:
 
 ```text
