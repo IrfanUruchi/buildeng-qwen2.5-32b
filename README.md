@@ -88,16 +88,25 @@ GGUF releases:
 ```text
 Q4_K_M
 https://huggingface.co/Irfanuruchi/qwen2.5-32b-buildeng-GGUF-Q4_K_M
+```
 
+```text
 Q5_K_M
 https://huggingface.co/Irfanuruchi/qwen2.5-32b-buildeng-GGUF-Q5_K_M
+```
 
+```text
 Q6_K
 https://huggingface.co/Irfanuruchi/qwen2.5-32b-buildeng-GGUF-Q6_K
+```
 
+
+```text
 Q8_0
 https://huggingface.co/Irfanuruchi/qwen2.5-32b-buildeng-GGUF-Q8_0
+```
 
+```text
 F16
 https://huggingface.co/Irfanuruchi/qwen2.5-32b-buildeng-GGUF-F16
 ```
