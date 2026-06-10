@@ -51,7 +51,7 @@ The full 32B production training script used for the final BuildEng V8 training 
 
 ## Repository Contents
 
-This repository is intended to contain the supporting code and documentation for the BuildEng 32B project, including dataset generation scripts, dataset formatting scripts, validation scripts, testing scripts, and merge/release preparation workflows.
+This repository is intended to contain the supporting code and documentation for the BuildEng 32B project.
 
 The goal is to keep this repository as a clean engineering record of the project instead of a dump of temporary experiment files.
 
